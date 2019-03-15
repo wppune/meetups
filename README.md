@@ -3,9 +3,9 @@ The idea behind this project is simple. We want it easier for community members 
 
 ## How will this work?
 
-- Select a type of meetup / workshop from this list.
-- Select a venue from this list.
-- Contact the Pune Meetup group for WordPress and get the meetup scheduled!
+- Select a type of [meetup / workshop from this list](https://github.com/wppune/meetups/blob/master/workshop-types.md).
+- Select a [venue from this list](https://github.com/wppune/meetups/blob/master/venues.md).
+- Contact the [Pune Meetup group for WordPress](https://www.meetup.com/Pune-WordPress-Knowledge-Exchange/) and get the meetup scheduled!
 
 ## Some rules first
 
