@@ -1,38 +1,20 @@
 # Meetup and Workshops in Pune
+The idea behind this project is simple. We want it easier for community members in Pune to organize meetups and do this in a distributed way with some sort of a framework.
 
-### Index
+## How will this work?
 
-- Rules
-- Types of WordPress Meetups and Workshops
-- Venues
-- How to contribute to this document
+- Select a type of meetup / workshop from this list.
+- Select a venue from this list.
+- Contact the Pune Meetup group for WordPress and get the meetup scheduled!
 
-## Developers
+## Some rules first
 
-- Start Developing
-- Contributing code
-- Toolset for coding
-- Coding standards
-- Documentation
+- WordPress Meetups are for the benefit of the WordPress community as a whole, not specific businesses or individuals. All actions taken as an event organizer are with the best interest of the community in mind.
 
-## Web users / makers
+- Membership in the local meetup group is open to all who wish to join, regardless of ability, skill, financial status or any other criteria.
 
-- Hosting (shared / VPS etc)
-- Maintenance (updates / inventory / Plugins / Themes)
-- Where could you get free Support? (Meetups, WordCamps, ask devs, forums,)
-- Paid support
-- How to choose a theme? (Guidelines and rules)
-- How to choose a plugin? (Guidelines and rules)
-- Ecoomerce plugins
-- Payment gateways
+- Meetups are volunteer-run with volunteer speakers. In cases where a modest attendance fee might be necessary, this fee should only cover the costs of the meetup and shouldn’t be used to pay speakers or organizers.
 
-## Freelancers Workshops
+- Meetup groups allow events to be organized by any reliable/trusted member of the community.
 
-- Resources for Freelancers (websites, job lists etc)
-- How to create estimates and invoices
-- Hourly charges vs Fixes charges
-- Tools for Freelancers (What should they invest time in)
-
-## Venues around Pune
-These are some of the venues we have around Pune city which have offered to host WordPress meetups. 
-All you need to do is send an email to the one listed below - suggest topic - select venue and request Pune WordEx to list it.
+- Meetups are welcoming places where everyone works to foster an accepting environment which is free of discrimination, incitement to violence, promotion of hate, and general jerk-like behavior.
